@@ -1,0 +1,20 @@
+uuid: 4f5f444e-88da-4587-9c03-3c381a76bfb1
+langcode: en
+status: true
+dependencies:
+  module:
+    - slack_invite
+  theme:
+    - bartik
+id: slackinviteform
+theme: bartik
+region: sidebar_first
+weight: null
+provider: null
+plugin: slack_invite_form_block
+settings:
+  id: slack_invite_form_block
+  label: 'Join our slack'
+  provider: slack_invite
+  label_display: visible
+visibility: {  }

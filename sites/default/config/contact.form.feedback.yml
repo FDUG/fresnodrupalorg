@@ -1,0 +1,12 @@
+uuid: b68860cc-7d26-476a-b700-bfe0545d2821
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Website feedback'
+recipients:
+  - fdug@kepford.org
+reply: ''
+weight: 0

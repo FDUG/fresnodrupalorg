@@ -1,0 +1,14 @@
+uuid: 336d3725-d1b9-4acd-9726-3896d968cdc4
+name: 'Fresno Drupal User''s Group'
+mail: fdug@kepford.org
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
